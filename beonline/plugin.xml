@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Плагин сервиса push-сообщений</lang>
+        <lang name="russian">Плагин сервиса push-сообщений</lang>
+    </name>
+    <author>
+        <lang name="default">andreyv</lang>
+    </author>
+    <homepage>http://gladcode.ru</homepage>
+    <version>1.0.0</version>
+    <requires>
+        <livestreet>1.x</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Добавляет на сайт функционал отправки push-сообщений пользователям на смартфоны с ОС android</lang>
+        <lang name="russian">Добавляет на сайт функционал отправки push-сообщений пользователям на смартфоны с ОС android</lang>
+    </description>
+</plugin>
